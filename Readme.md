@@ -1,3 +1,2 @@
 # Java
-**Generics**
-- [Introdução](/annotations/generics/intro.md)
+[**Generics**](/annotations/generics/contents.md)
